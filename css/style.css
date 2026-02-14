@@ -5,3 +5,7 @@ h1 {
 #food-title {
     color: green;
 }
+
+.food .foreign {
+    font-weight: 700;
+}
